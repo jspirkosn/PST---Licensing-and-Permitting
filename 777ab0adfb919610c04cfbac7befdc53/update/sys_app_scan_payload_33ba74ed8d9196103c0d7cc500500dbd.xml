@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>f4b1c78a36a697d90ce52ab12d7421edda2c860826bdfa5e83c496c818f7769c</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>837a7c6da69196102ec47685e2228d8f</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">!!!sys_id_109!!!</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"x_snc_pub_sub_dh_0_program_name_applications","fixedQuery":"","listTitle":"My Work","columns":"","query":"active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe","groupByField":"","hideViewAll":false,"hideHighlightedValues":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":true,"hideDotwalk":true,"hideColumnReorder":true,"hideRowSelector":false,"hideColumnGrouping":true,"hideColumnResizing":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":true,"refreshRequested":"","noDebounce":""}</component_props><h>18</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_id>!!!sys_id_104!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><visualization/><w>48</w><widget_props/><x>0</x><y>12</y></par_dashboard_widget></record_update>]]></serialized_record>
+        <source_class>par_dashboard_widget</source_class>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <source_name/>
+        <source_sys_id>6f28e8ba17f8d61025bee0397665ae1f</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-17 00:04:52</sys_created_on>
+        <sys_id>33ba74ed8d9196103c0d7cc500500dbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>par_dashboard_widget</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_2">777ab0adfb919610c04cfbac7befdc53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">777ab0adfb919610c04cfbac7befdc53</sys_scope>
+        <sys_update_name>sys_app_scan_payload_33ba74ed8d9196103c0d7cc500500dbd</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-17 00:04:52</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

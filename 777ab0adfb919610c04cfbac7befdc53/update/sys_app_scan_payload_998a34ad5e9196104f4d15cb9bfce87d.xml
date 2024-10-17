@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>0ffea37bd429244eec92f65641f9007cc89a03780ecc4c8b9f62a9ec971f1082</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>837a7c6da69196102ec47685e2228d8f</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>500</order><sc_cat_item display_value="">!!!sys_id_11!!!</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_10!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><variable_set display_value="Service and Offering Selection">85a3a296eb5f02105204f635cad0cdec</variable_set></io_set_item></record_update>]]></serialized_record>
+        <source_class>io_set_item</source_class>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <source_name>Service and Offering Selection.Create an Enhancement Request - {program name support}</source_name>
+        <source_sys_id>e728e8baf7f8d610c8f0a7688581da31</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-17 00:03:53</sys_created_on>
+        <sys_id>998a34ad5e9196104f4d15cb9bfce87d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>io_set_item</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_2">777ab0adfb919610c04cfbac7befdc53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">777ab0adfb919610c04cfbac7befdc53</sys_scope>
+        <sys_update_name>sys_app_scan_payload_998a34ad5e9196104f4d15cb9bfce87d</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-17 00:03:53</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

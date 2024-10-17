@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>0b51066329416fee39e7e04291895f0827ede5e155f32bb6992ce92c5ed2125e</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>837a7c6da69196102ec47685e2228d8f</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><database><element active="1" array="0" attributes="timeFromCreateToActivate=290000" audit="0" calculation="" choice="0" choice_field="" choice_table="" create_roles="" default_value="" delete_roles="" dependent="" dependent_on_field="" display="number" dynamic_creation="0" dynamic_creation_script="" dynamic_default_value="" dynamic_ref_qual="" element_reference="0" extends="sn_gsm_license_permit_case" filterable="1" foreign_database="" function_definition="" function_field="0" groupable="1" help="" hint="Defines and manages License and Permit Request Cases" i18n_sortable="1" internal_type="collection" label="{program name} Licenses and Permits" language="en" mandatory="0" matchable="1" max_length="40" multi_text="0" name="!!!table_name_0!!!" plural="{program name} Licenses and Permits" primary="0" read_only="0" read_roles="" reference="" reference_cascade_rule="" reference_floats="0" reference_key="" reference_qual="" reference_qual_condition="" reference_type="" sizeclass="0" sortable="1" spell_check="0" staged="0" sys_package="cb2828bac8f8d6109477cad659f05ddb" sys_scope="cb2828bac8f8d6109477cad659f05ddb" table_reference="0" text_index="0" type="0" type_description="collection" unique="0" url="" url_target="" use_dynamic_default="0" use_reference_qualifier="simple" virtual="0" widget="" write_roles="" xml_view="0"/></database>]]></serialized_record>
+        <source_class>sys_db_object</source_class>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <source_name>Pub Sub Li 0 Program Name Licenses And Permits</source_name>
+        <source_sys_id>314061be93701a10d6aabe8d1dba106e</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-17 00:03:52</sys_created_on>
+        <sys_id>458af0ad6891961014fcb00b6fd1bdc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_db_object</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_2">777ab0adfb919610c04cfbac7befdc53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">777ab0adfb919610c04cfbac7befdc53</sys_scope>
+        <sys_update_name>sys_app_scan_payload_458af0ad6891961014fcb00b6fd1bdc1</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-17 00:03:52</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

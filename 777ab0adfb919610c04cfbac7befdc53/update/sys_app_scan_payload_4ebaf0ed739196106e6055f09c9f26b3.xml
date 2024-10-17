@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>7b69366a559864c0e5241680f2437ab696905f9bab62a1e1b54542c8d33a8d17</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>837a7c6da69196102ec47685e2228d8f</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group"><m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE"><order>100</order><reader_requested_fields/><reader_searchable_fields/><sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_84!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_suggestion_reader_group_id display_value="">!!!sys_id_78!!!</sys_suggestion_reader_group_id><sys_suggestion_reader_id display_value="User Search Term Reader">4b1cb27053231010dda1ddeeff7b12b8</sys_suggestion_reader_id><sys_update_name/><sys_updated_by/><sys_updated_on/></m2m_sys_suggestion_reader_sys_suggestion_reader_group></record_update>]]></serialized_record>
+        <source_class>m2m_sys_suggestion_reader_sys_suggestion_reader_group</source_class>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <source_name/>
+        <source_sys_id>af28e8ba95f8d6105b92cd57f603e324</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-17 00:04:45</sys_created_on>
+        <sys_id>4ebaf0ed739196106e6055f09c9f26b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_2">777ab0adfb919610c04cfbac7befdc53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">777ab0adfb919610c04cfbac7befdc53</sys_scope>
+        <sys_update_name>sys_app_scan_payload_4ebaf0ed739196106e6055f09c9f26b3</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-17 00:04:45</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

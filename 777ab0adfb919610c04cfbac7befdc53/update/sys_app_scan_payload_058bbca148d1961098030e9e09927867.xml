@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>978e5a05fac4e19926dbf71433fac4a27d1335e62b3bcbfa96fb34d1bc455063</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>837a7c6da69196102ec47685e2228d8f</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list"><sys_ux_list action="INSERT_OR_UPDATE"><active>true</active><category/><columns>number,product,service,consumer,assigned_to,assignment_group</columns><condition/><configuration display_value="CSM/FSM Configurable Workspace List Menu Config">0b62b8ba77d650102c30945caa106138</configuration><group_by_column/><groups/><hide_cell_filter>false</hide_cell_filter><hide_checkbox_hover>true</hide_checkbox_hover><hide_column_filtering>false</hide_column_filtering><hide_column_grouping>false</hide_column_grouping><hide_column_resizing>false</hide_column_resizing><hide_column_sorting>false</hide_column_sorting><hide_drag_and_drop>true</hide_drag_and_drop><hide_empty_state_image>false</hide_empty_state_image><hide_first_page>false</hide_first_page><hide_header>false</hide_header><hide_highlight_content>false</hide_highlight_content><hide_highlighted_values>false</hide_highlighted_values><hide_inline_editing>false</hide_inline_editing><hide_last_page>false</hide_last_page><hide_last_refreshed_text>false</hide_last_refreshed_text><hide_links>false</hide_links><hide_list_actions>false</hide_list_actions><hide_menu_button>false</hide_menu_button><hide_next_page>false</hide_next_page><hide_option_to_save_as>false</hide_option_to_save_as><hide_pages>false</hide_pages><hide_pagination>false</hide_pagination><hide_panel_advanced>false</hide_panel_advanced><hide_panel_button>false</hide_panel_button><hide_panel_condition_delete>false</hide_panel_condition_delete><hide_panel_footer>false</hide_panel_footer><hide_panel_restore>false</hide_panel_restore><hide_personalization>false</hide_personalization><hide_previous_page>false</hide_previous_page><hide_quick_edit>false</hide_quick_edit><hide_range>false</hide_range><hide_record_count_badge>false</hide_record_count_badge><hide_reference_links>false</hide_reference_links><hide_refresh_button>false</hide_refresh_button><hide_row_count>false</hide_row_count><hide_row_selector>false</hide_row_selector><hide_rows_per_page_selector>false</hide_rows_per_page_selector><hide_select_all>false</hide_select_all><hide_sharing_button>false</hide_sharing_button><hide_title>false</hide_title><highlight_content_color/><highlight_content_pattern/><list_attributes/><max_characters>4000</max_characters><order/><override_word_wrap_user_pref>false</override_word_wrap_user_pref><roles/><sys_class_name>sys_ux_list</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_id>!!!sys_id_1435!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><table>x_snc_tanf_template_questions</table><title>All</title><view/><word_wrap>false</word_wrap></sys_ux_list></record_update>]]></serialized_record>
+        <source_class>sys_ux_list</source_class>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <source_name>All</source_name>
+        <source_sys_id>172828ba24f8d610382d17239edb02e9</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-17 00:08:14</sys_created_on>
+        <sys_id>058bbca148d1961098030e9e09927867</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ux_list</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_2">777ab0adfb919610c04cfbac7befdc53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">777ab0adfb919610c04cfbac7befdc53</sys_scope>
+        <sys_update_name>sys_app_scan_payload_058bbca148d1961098030e9e09927867</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-17 00:08:14</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

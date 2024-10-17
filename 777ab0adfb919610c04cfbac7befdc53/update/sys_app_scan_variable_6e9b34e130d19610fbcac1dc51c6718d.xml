@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable">
+    <sys_app_scan_variable action="INSERT_OR_UPDATE">
+        <name>sys_id_1488</name>
+        <original_value>8b2828ba54f8d61009727c8ac3b135de</original_value>
+        <referenced_table>sys_app</referenced_table>
+        <run_script>false</run_script>
+        <scan_instance>837a7c6da69196102ec47685e2228d8f</scan_instance>
+        <scan_source>scan</scan_source>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <sys_class_name>sys_app_scan_variable</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-17 00:08:37</sys_created_on>
+        <sys_id>6e9b34e130d19610fbcac1dc51c6718d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_id_1488</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_2">777ab0adfb919610c04cfbac7befdc53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">777ab0adfb919610c04cfbac7befdc53</sys_scope>
+        <sys_update_name>sys_app_scan_variable_6e9b34e130d19610fbcac1dc51c6718d</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-17 00:08:37</sys_updated_on>
+        <template_execution_script/>
+        <type display_value="Reference">242d82a65bea101001fb0c370581c7ea</type>
+        <variable_hash>e4f07a96e743d6624163d4fb0625aedd66510b84eac3b72ddb8c9b2fc43fb869</variable_hash>
+    </sys_app_scan_variable>
+</record_update>

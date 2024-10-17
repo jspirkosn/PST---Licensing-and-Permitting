@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>e2ad23b04bb2ccc0b38a86c18a2a6064b6a649749c3c90974a73339ed76e7f91</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>837a7c6da69196102ec47685e2228d8f</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="">!!!app_sys_id!!!</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_911!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><target_name>ScopedGlideElement</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></serialized_record>
+        <source_class>sys_scope_privilege</source_class>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <source_name>ScopedGlideElement</source_name>
+        <source_sys_id>572868ba1cf8d6104db3c95c641779e5</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-17 00:06:42</sys_created_on>
+        <sys_id>662b3461bdd19610bb895e9142718a6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_scope_privilege</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_2">777ab0adfb919610c04cfbac7befdc53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">777ab0adfb919610c04cfbac7befdc53</sys_scope>
+        <sys_update_name>sys_app_scan_payload_662b3461bdd19610bb895e9142718a6c</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-17 00:06:42</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

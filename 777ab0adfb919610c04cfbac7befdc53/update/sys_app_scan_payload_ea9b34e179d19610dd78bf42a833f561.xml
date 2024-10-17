@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>4401ad1079b27c9fa75def8db0a48aae4067d1182ee209c21ea63c6c8736cb0e</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>837a7c6da69196102ec47685e2228d8f</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m"><sys_package_dependency_m2m action="INSERT_OR_UPDATE"><dependency display_value="">!!!source_app_dependency_1483!!!</dependency><min_version>1.1.1</min_version><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_1482!!!</sys_id><sys_mod_count/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_updated_by/><sys_updated_on/></sys_package_dependency_m2m></record_update>]]></serialized_record>
+        <source_class>sys_package_dependency_m2m</source_class>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <source_name/>
+        <source_sys_id>10382cba93f8d610d6aabe8d1dba1053</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-17 00:08:37</sys_created_on>
+        <sys_id>ea9b34e179d19610dd78bf42a833f561</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_package_dependency_m2m</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_2">777ab0adfb919610c04cfbac7befdc53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">777ab0adfb919610c04cfbac7befdc53</sys_scope>
+        <sys_update_name>sys_app_scan_payload_ea9b34e179d19610dd78bf42a833f561</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-17 00:08:37</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

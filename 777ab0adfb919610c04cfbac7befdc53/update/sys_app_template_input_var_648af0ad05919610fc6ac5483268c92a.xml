@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_input_var">
+    <sys_app_template_input_var action="INSERT_OR_UPDATE">
+        <default/>
+        <description>Description of the application</description>
+        <flow_input_variable display_value="short_description">5c8ab0adfb919610c04cfbac7befdcff</flow_input_variable>
+        <label>Short Description</label>
+        <mandatory>false</mandatory>
+        <name>short_description</name>
+        <sys_class_name>sys_app_template_input_var</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-17 00:03:50</sys_created_on>
+        <sys_id>648af0ad05919610fc6ac5483268c92a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_2">777ab0adfb919610c04cfbac7befdc53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">777ab0adfb919610c04cfbac7befdc53</sys_scope>
+        <sys_update_name>sys_app_template_input_var_648af0ad05919610fc6ac5483268c92a</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-17 00:03:50</sys_updated_on>
+        <template display_value="Pub Sector - Licenses and Permits">408ab0adda9196107f323018bce5383f</template>
+        <type>string</type>
+    </sys_app_template_input_var>
+</record_update>

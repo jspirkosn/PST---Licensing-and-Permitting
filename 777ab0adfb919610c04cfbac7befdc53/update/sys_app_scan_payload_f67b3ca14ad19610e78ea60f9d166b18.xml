@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>fc1341d8cf994581164ec9a6ed1674286b2b86afdf833e5a10df560695d6eb30</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>837a7c6da69196102ec47685e2228d8f</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains><role display_value="">!!!sys_id_2!!!</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_1393!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_user_role_contains></record_update>]]></serialized_record>
+        <source_class>sys_user_role_contains</source_class>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <source_name>canvas_user.</source_name>
+        <source_sys_id>132868ba20f8d61058110fe35773f80a</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-17 00:08:05</sys_created_on>
+        <sys_id>f67b3ca14ad19610e78ea60f9d166b18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user_role_contains</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_2">777ab0adfb919610c04cfbac7befdc53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">777ab0adfb919610c04cfbac7befdc53</sys_scope>
+        <sys_update_name>sys_app_scan_payload_f67b3ca14ad19610e78ea60f9d166b18</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-17 00:08:05</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

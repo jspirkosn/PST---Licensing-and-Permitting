@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>e7a98418755a79a01f336c6632cdf5bb1b57838f19b818b547fadc86c3b1a089</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>837a7c6da69196102ec47685e2228d8f</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config/><description/><disable_auto_reflow>false</disable_auto_reflow><event_mappings/><macroponent display_value="Visualization designer">2d5dcc29c3110110d938e4788940dd8f</macroponent><macroponent_config/><name>Visualization Designer Default</name><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="">!!!sys_id_1415!!!</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_id>!!!sys_id_1468!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_ux_screen></record_update>]]></serialized_record>
+        <source_class>sys_ux_screen</source_class>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <source_name>Visualization Designer Default</source_name>
+        <source_sys_id>9f2828ba34f8d610dfbf32dfd00b68e5</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-17 00:08:29</sys_created_on>
+        <sys_id>e49bb0e103d19610f719ea551033c87b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ux_screen</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_2">777ab0adfb919610c04cfbac7befdc53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">777ab0adfb919610c04cfbac7befdc53</sys_scope>
+        <sys_update_name>sys_app_scan_payload_e49bb0e103d19610f719ea551033c87b</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-17 00:08:29</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

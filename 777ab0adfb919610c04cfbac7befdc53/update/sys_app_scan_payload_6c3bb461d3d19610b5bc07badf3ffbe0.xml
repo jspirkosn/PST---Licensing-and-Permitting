@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>988441f59e64446bb53773fb4807127fb734658ae6883ce1b0eab0f6f090feff</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>837a7c6da69196102ec47685e2228d8f</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_931!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_930!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_932!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_933!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_930!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_934!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>2</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_935!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_930!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_936!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>3</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_937!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_930!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_938!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>4</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_939!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_930!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_940!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>!!!table_name_1!!!</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_930!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><sys_user/><view display_value="Major Case" name="major_case">f596b3413bb30300b5c42479b3efc486</view><view_name/></sys_ui_form></record_update>]]></serialized_record>
+        <source_class>sys_ui_form</source_class>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <source_name>x_snc_pub_sub_li_0_template_questions</source_name>
+        <source_sys_id>5b2868ba79f8d610e905fbc94646e1c7</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-17 00:06:50</sys_created_on>
+        <sys_id>6c3bb461d3d19610b5bc07badf3ffbe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ui_form</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_2">777ab0adfb919610c04cfbac7befdc53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">777ab0adfb919610c04cfbac7befdc53</sys_scope>
+        <sys_update_name>sys_app_scan_payload_6c3bb461d3d19610b5bc07badf3ffbe0</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-17 00:06:50</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

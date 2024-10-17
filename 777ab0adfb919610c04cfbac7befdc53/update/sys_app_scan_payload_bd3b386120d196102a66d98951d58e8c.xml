@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>4658d9d7ca0df4da0c44a2004efd6f2dc7577ac8ff00147bda3b13f0dfca2bd2</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>837a7c6da69196102ec47685e2228d8f</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_985!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_984!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_986!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_987!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_984!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_988!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>2</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_989!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_984!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_990!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>3</position><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_991!!!</sys_id><sys_mod_count/><sys_overrides/><sys_ui_form display_value="">!!!sys_id_984!!!</sys_ui_form><sys_ui_section display_value="">!!!sys_id_992!!!</sys_ui_section><sys_updated_by/><sys_updated_on/></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>!!!table_name_1!!!</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_984!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_form></record_update>]]></serialized_record>
+        <source_class>sys_ui_form</source_class>
+        <source_id>cb2828bac8f8d6109477cad659f05ddb</source_id>
+        <source_name>x_snc_pub_sub_li_0_template_questions</source_name>
+        <source_sys_id>9f2868ba7af8d61025c53dfe29916dda</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-17 00:06:55</sys_created_on>
+        <sys_id>bd3b386120d196102a66d98951d58e8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ui_form</sys_name>
+        <sys_package display_value="Pub Sector - Licenses and Permits" source="x_snc_pub_sector_2">777ab0adfb919610c04cfbac7befdc53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - Licenses and Permits">777ab0adfb919610c04cfbac7befdc53</sys_scope>
+        <sys_update_name>sys_app_scan_payload_bd3b386120d196102a66d98951d58e8c</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-17 00:06:55</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>
