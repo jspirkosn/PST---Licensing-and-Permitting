@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Licensing Engine" source="sn_entitlement">bcadabf277f311109c62f5f3cb5a992a</dependency>
+        <min_version>3.2.1</min_version>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-11-01 06:15:24</sys_created_on>
+        <sys_id>a16f1312fbe15a90c04cfbac7befdcc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Licenses and Permits - Pub Sector" source="x_snc_licenses_a_2">986f9fdefba15a90c04cfbac7befdc37</sys_package>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-11-01 06:15:24</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
