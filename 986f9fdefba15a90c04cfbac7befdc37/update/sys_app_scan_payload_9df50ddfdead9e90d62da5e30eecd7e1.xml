@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
     <sys_app_scan_payload action="INSERT_OR_UPDATE">
-        <payload_hash>2f5e5ace9059595773a8f969e158b6cf27e99df0012ab1fb6521f7dadd633615</payload_hash>
+        <payload_hash>8345b83183889e0527574cd6623117f8766f20cdb1fb0cc2036d81008543c455</payload_hash>
         <referenced_table>sys_app</referenced_table>
-        <scan_instance>31e581df61ad9e9019ccc358d8f956cb</scan_instance>
+        <scan_instance>1959819ba8ed9e9056bb82edb45a335e</scan_instance>
         <scan_source>scan</scan_source>
         <serialized_record>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_producer"&gt;&lt;sc_cat_item_producer action="INSERT_OR_UPDATE"&gt;&lt;access_type&gt;restricted&lt;/access_type&gt;&lt;active&gt;true&lt;/active&gt;&lt;allow_edit&gt;false&lt;/allow_edit&gt;&lt;availability&gt;on_both&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;can_cancel&gt;false&lt;/can_cancel&gt;&lt;category/&gt;&lt;checked_out&gt;false&lt;/checked_out&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan display_value="DEFAULT"&gt;523da512c611228900811a37c97c2014&lt;/delivery_plan&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description/&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;fulfillment_automation_level&gt;unspecified&lt;/fulfillment_automation_level&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;list_price&gt;0&lt;/list_price&gt;&lt;location/&gt;&lt;make_item_non_conversational&gt;false&lt;/make_item_non_conversational&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Report a Service Interruption - {program name support}&lt;/name&gt;&lt;no_attachment_v2&gt;true&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_save_as_draft&gt;true&lt;/no_save_as_draft&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;owner display_value="John Spirko"&gt;351c2cd4db620700bb41fd131d9619cb&lt;/owner&gt;&lt;picture/&gt;&lt;post_insert_script&gt;&lt;![CDATA[/**
 * This script is executed after the record is generated. 
@@ -21,7 +21,7 @@
 * Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
 * Avoid `current.setAbortAction()` and generate a separate record
 * Use `producer.var1` to access variables
-*/]]&gt;&lt;/script&gt;&lt;short_description&gt;Report a Service Interruption for services in this application&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state&gt;published&lt;/state&gt;&lt;sys_class_name&gt;sc_cat_item_producer&lt;/sys_class_name&gt;&lt;sys_created_by/&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;!!!sys_id_412!!!&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_name/&gt;&lt;sys_package display_value=""&gt;!!!app_sys_id!!!&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value=""&gt;!!!app_sys_id!!!&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;table_name&gt;incident&lt;/table_name&gt;&lt;taxonomy_topic/&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;version&gt;68&lt;/version&gt;&lt;view/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item_producer&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=19f50ddf93ad9e90d6aabe8d1dba109b"/&gt;&lt;fx_price action="delete_multiple" query="id=19f50ddf93ad9e90d6aabe8d1dba109b"/&gt;&lt;/record_update&gt;</serialized_record>
+*/]]&gt;&lt;/script&gt;&lt;short_description&gt;Report a Service Interruption for services in this application&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state&gt;published&lt;/state&gt;&lt;sys_class_name&gt;sc_cat_item_producer&lt;/sys_class_name&gt;&lt;sys_created_by/&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;!!!sys_id_412!!!&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_name/&gt;&lt;sys_package display_value=""&gt;!!!app_sys_id!!!&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value=""&gt;!!!app_sys_id!!!&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;table_name&gt;incident&lt;/table_name&gt;&lt;taxonomy_topic/&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;version&gt;69&lt;/version&gt;&lt;view/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item_producer&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=bc690d9b93ed9e90d6aabe8d1dba1012"/&gt;&lt;fx_price action="delete_multiple" query="id=bc690d9b93ed9e90d6aabe8d1dba1012"/&gt;&lt;/record_update&gt;</serialized_record>
         <source_class>sc_cat_item_producer</source_class>
         <source_id>975f1fdefba15a90c04cfbac7befdcc1</source_id>
         <source_name>Report a Service Interruption - {program name support}</source_name>
@@ -30,14 +30,14 @@
         <sys_created_by>john.spirko</sys_created_by>
         <sys_created_on>2024-11-03 21:38:55</sys_created_on>
         <sys_id>9df50ddfdead9e90d62da5e30eecd7e1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>sc_cat_item_producer</sys_name>
         <sys_package display_value="Licenses and Permits - Pub Sector" source="x_snc_licenses_a_2">986f9fdefba15a90c04cfbac7befdc37</sys_package>
         <sys_policy/>
         <sys_scope display_value="Licenses and Permits - Pub Sector">986f9fdefba15a90c04cfbac7befdc37</sys_scope>
         <sys_update_name>sys_app_scan_payload_9df50ddfdead9e90d62da5e30eecd7e1</sys_update_name>
         <sys_updated_by>john.spirko</sys_updated_by>
-        <sys_updated_on>2024-11-03 21:38:55</sys_updated_on>
+        <sys_updated_on>2024-11-03 21:53:55</sys_updated_on>
         <version>1</version>
     </sys_app_scan_payload>
 </record_update>
