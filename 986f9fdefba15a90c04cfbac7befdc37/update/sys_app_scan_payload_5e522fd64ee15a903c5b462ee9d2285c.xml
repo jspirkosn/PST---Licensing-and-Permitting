@@ -2,7 +2,7 @@
     <sys_app_scan_payload action="INSERT_OR_UPDATE">
         <payload_hash>2c3ebe2e10a6d6cbd08ea521e76c51a884a440e323680a469b0e36227fba0f2b</payload_hash>
         <referenced_table>sys_app</referenced_table>
-        <scan_instance>9b02559f3d21de90645f6d516775c15f</scan_instance>
+        <scan_instance>504eae93e2e9de900d395078024252d5</scan_instance>
         <scan_source>scan</scan_source>
         <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Can edit and build on my app</description><elevated_privilege>false</elevated_privilege><encryption_context/><grantable>true</grantable><includes_roles/><name>!!!user_role_3!!!</name><scoped_admin>false</scoped_admin><suffix>admin</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_2!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_user_role></record_update>]]></serialized_record>
         <source_class>sys_user_role</source_class>
@@ -13,14 +13,14 @@
         <sys_created_by>john.spirko</sys_created_by>
         <sys_created_on>2024-11-01 06:28:16</sys_created_on>
         <sys_id>5e522fd64ee15a903c5b462ee9d2285c</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>sys_user_role</sys_name>
         <sys_package display_value="Licenses and Permits - Pub Sector" source="x_snc_licenses_a_2">986f9fdefba15a90c04cfbac7befdc37</sys_package>
         <sys_policy/>
         <sys_scope display_value="Licenses and Permits - Pub Sector">986f9fdefba15a90c04cfbac7befdc37</sys_scope>
         <sys_update_name>sys_app_scan_payload_5e522fd64ee15a903c5b462ee9d2285c</sys_update_name>
         <sys_updated_by>john.spirko</sys_updated_by>
-        <sys_updated_on>2024-11-03 22:31:48</sys_updated_on>
+        <sys_updated_on>2024-11-04 05:14:38</sys_updated_on>
         <version>1</version>
     </sys_app_scan_payload>
 </record_update>

@@ -2,7 +2,7 @@
     <sys_app_scan_payload action="INSERT_OR_UPDATE">
         <payload_hash>1f3f5990607c0e8e6aff5bc27ee49ae8912b43d065c9aa86bbd6d74349507364</payload_hash>
         <referenced_table>sys_app</referenced_table>
-        <scan_instance>9b02559f3d21de90645f6d516775c15f</scan_instance>
+        <scan_instance>504eae93e2e9de900d395078024252d5</scan_instance>
         <scan_source>scan</scan_source>
         <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_element action="INSERT_OR_UPDATE"><element>incident</element><position>0</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_356!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_53!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>problem</element><position>1</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_357!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_53!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_358!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_53!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>change</element><position>3</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_359!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_53!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>caused_by</element><position>4</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_360!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_53!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>5</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_361!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_53!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Related Records</caption><header>false</header><name>!!!table_name_1!!!</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_53!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><sys_user/><title>false</title><view display_value="External Location Agent" name="external_location_agent">9052ee235b1602100c7609f8e281c7a5</view><view_name/></sys_ui_section></record_update>]]></serialized_record>
         <source_class>sys_ui_section</source_class>
@@ -13,14 +13,14 @@
         <sys_created_by>john.spirko</sys_created_by>
         <sys_created_on>2024-11-01 06:29:24</sys_created_on>
         <sys_id>e692239af5e15a900b441ffb9fd00f43</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>sys_ui_section</sys_name>
         <sys_package display_value="Licenses and Permits - Pub Sector" source="x_snc_licenses_a_2">986f9fdefba15a90c04cfbac7befdc37</sys_package>
         <sys_policy/>
         <sys_scope display_value="Licenses and Permits - Pub Sector">986f9fdefba15a90c04cfbac7befdc37</sys_scope>
         <sys_update_name>sys_app_scan_payload_e692239af5e15a900b441ffb9fd00f43</sys_update_name>
         <sys_updated_by>john.spirko</sys_updated_by>
-        <sys_updated_on>2024-11-03 22:32:46</sys_updated_on>
+        <sys_updated_on>2024-11-04 05:15:38</sys_updated_on>
         <version>1</version>
     </sys_app_scan_payload>
 </record_update>

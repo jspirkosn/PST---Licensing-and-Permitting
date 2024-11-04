@@ -2,7 +2,7 @@
     <sys_app_scan_payload action="INSERT_OR_UPDATE">
         <payload_hash>6c716f7bb5da28813d5c2abead5cc3d3820a902fef76b7ec4111d25aa1900030</payload_hash>
         <referenced_table>sys_app</referenced_table>
-        <scan_instance>9b02559f3d21de90645f6d516775c15f</scan_instance>
+        <scan_instance>504eae93e2e9de900d395078024252d5</scan_instance>
         <scan_source>scan</scan_source>
         <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="">!!!sys_id_401!!!</sc_cat_item><sc_category display_value="Licenses/Permits">469fefff777431106c0cfc66ba5a9974</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_422!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sc_cat_item_category></record_update>]]></serialized_record>
         <source_class>sc_cat_item_category</source_class>
@@ -13,14 +13,14 @@
         <sys_created_by>john.spirko</sys_created_by>
         <sys_created_on>2024-11-03 21:38:54</sys_created_on>
         <sys_id>41f50ddf43ad9e909093d3e81853fd67</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>sc_cat_item_category</sys_name>
         <sys_package display_value="Licenses and Permits - Pub Sector" source="x_snc_licenses_a_2">986f9fdefba15a90c04cfbac7befdc37</sys_package>
         <sys_policy/>
         <sys_scope display_value="Licenses and Permits - Pub Sector">986f9fdefba15a90c04cfbac7befdc37</sys_scope>
         <sys_update_name>sys_app_scan_payload_41f50ddf43ad9e909093d3e81853fd67</sys_update_name>
         <sys_updated_by>john.spirko</sys_updated_by>
-        <sys_updated_on>2024-11-03 22:32:01</sys_updated_on>
+        <sys_updated_on>2024-11-04 05:14:50</sys_updated_on>
         <version>1</version>
     </sys_app_scan_payload>
 </record_update>
